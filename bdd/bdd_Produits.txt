@@ -1,0 +1,4 @@
+Produit 1|1,89|Description1|23
+Produit 2|1,29|Description2|3
+banane|1|Calibre 4, provenance cote d'ivoire
+banane|1|Calibre 4, provenance cote d'ivoire|0
